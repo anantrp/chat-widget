@@ -1,5 +1,12 @@
-# Embeddable Web Chat Widget
+# Web Chat Widget
 
+Add Chat bubble to your website with a single `script` tag
+
+## Preview 
+<p align="left">
+<img src="https://user-images.githubusercontent.com/1721988/234564883-685d7e3f-8640-4d4d-8b42-3b7be18b59dc.gif"  height="320" width="auto">
+<img src="https://user-images.githubusercontent.com/1721988/234564904-e7f02e30-cc7c-40db-9a2a-e123510f1283.gif"  height="320" width="600">
+</p>
 
 ### Built with ChatGPT (GPT-4)
 
@@ -8,13 +15,6 @@ About 95% of the code for this widget is written by GPT-4, I just edited and adj
 ###  No external dependencies, pure javascript
 
 A simple and responsive chat widget built with HTML, CSS, and JavaScript. The chat widget is styled using the popular CSS framework, Tailwind CSS (v2), and can be easily integrated into any website with a simple script tag.
-
-## Preview 
-<p align="left">
-<img src="https://user-images.githubusercontent.com/1721988/234564883-685d7e3f-8640-4d4d-8b42-3b7be18b59dc.gif"  height="320" width="auto">
-<img src="https://user-images.githubusercontent.com/1721988/234564904-e7f02e30-cc7c-40db-9a2a-e123510f1283.gif"  height="320" width="600">
-</p>
-
 
 ## Features
 
