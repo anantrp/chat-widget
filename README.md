@@ -9,6 +9,8 @@ About 95% of the code for this widget is written by GPT-4, I just edited and adj
 
 A simple and responsive chat widget built with HTML, CSS, and JavaScript. The chat widget is styled using the popular CSS framework, Tailwind CSS (v2), and can be easily integrated into any website with a simple script tag.
 
+[mobile.webm](https://user-images.githubusercontent.com/1721988/234564696-4b3e1b6c-5233-4b95-b49d-f58b0ff186f5.webm)
+[desktop.webm](https://user-images.githubusercontent.com/1721988/234564751-534f08e0-a83a-43e4-8585-a3bfe9d4c28c.webm)
 
 
 ## Features
