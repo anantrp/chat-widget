@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/1721988/234578211-b57b4446-ee1e-4de0-8f18-0656897afa81.png" height="80" width="auto">
 # Web Chat Widget
 
 Add Chat bubble to your website with a single `script` tag
