@@ -2,7 +2,12 @@
 
 <h1>Web Chat Widget</h1>
 
-Easily add a chat bubble to your website with a single `script` tag. A simple and responsive chat widget built with HTML, CSS, and JavaScript. The chat widget is styled using Tailwind CSS (v2)
+Easily add a chat bubble to your website with a single `script` tag. A simple and responsive chat widget built with HTML, CSS, and JavaScript. The chat widget is styled using Tailwind CSS (v2). [The blog post](https://anantrp.hashnode.dev/how-i-built-a-chat-widget-with-chatgpt-in-under-an-hour) describing how I did it.
+
+## Built with ChatGPT (GPT-4)
+
+About 95% of the code for this widget is written by GPT-4, I just edited and adjust a few things
+
 
 <br>
 
@@ -10,12 +15,6 @@ Easily add a chat bubble to your website with a single `script` tag. A simple an
 <img src="https://user-images.githubusercontent.com/1721988/234564883-685d7e3f-8640-4d4d-8b42-3b7be18b59dc.gif"  height="320" width="auto">
 <img src="https://user-images.githubusercontent.com/1721988/234564904-e7f02e30-cc7c-40db-9a2a-e123510f1283.gif"  height="320" width="600">
 </p>
-
-
-## Built with ChatGPT (GPT-4)
-
-About 95% of the code for this widget is written by GPT-4, I just edited and adjust a few things
-
 
 ## Features
 
